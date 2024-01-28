@@ -1,5 +1,8 @@
-![logo](https://drive.usercontent.google.com/download?id=1gW2yrZ0RDBzMl7GryLnxHmAK0jyUhm4h&authuser=0)
 
+<img height="250px" align="left" src="https://drive.usercontent.google.com/download?id=1gW2yrZ0RDBzMl7GryLnxHmAK0jyUhm4h&authuser=0" alt="poseidon0070" />
+<p>&nbsp</p>
+<p>&nbsp</p>
+<p>&nbsp</p>
 <h1 align="center">Hi 👋, I'm Shikhar Reyya</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -12,7 +15,6 @@
 - 🔗 My linkedIn profile : https://www.linkedin.com/in/shikhar-reyya-368451229/
 
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h3 align="left">My github stats:</h3>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=poseidon0070&show_icons=true&locale=en" alt="poseidon0070" />
@@ -33,8 +35,8 @@
 <img align="left" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
