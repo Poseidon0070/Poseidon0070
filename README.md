@@ -6,11 +6,11 @@
 
 - 🏫 Currently a 3rd year CSE undergrad at IIIT, Naya Raipur
 
-- 👨‍💻 All of my projects are available at : [https://poseidon0070.github.io/Portfolio_2.0](https://poseidon0070.github.io/Portfolio_2.0)
-
-- 📫 How to reach me : **shikharreyya@gmail.com**
+- 📫 Reach me at : **shikharreyya@gmail.com**
 
 - 🔗 My linkedIn profile : https://www.linkedin.com/in/shikhar-reyya-368451229/
+
+- 👨‍💻 Website : [https://poseidon0070.github.io/Portfolio_2.0](https://poseidon0070.github.io/Portfolio_2.0)
 
 <p>&nbsp</p>
 <h3 align="center">My github stats:</h3>
