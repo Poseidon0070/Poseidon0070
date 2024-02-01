@@ -10,7 +10,7 @@
 
 - 🔗 My linkedIn profile : https://www.linkedin.com/in/shikhar-reyya-368451229/
 
-- 👨‍💻 Website : [https://poseidon0070.github.io/myportfolio](https://poseidon0070.github.io/myportfolio)
+- 👨‍💻 Website : [https://shikharreyya.is-a.dev/myportfolio](https://shikharreyya.is-a.dev/myportfolio)
 
 <p>&nbsp</p>
 <h3 align="center">My github stats:</h3>
