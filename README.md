@@ -8,7 +8,7 @@
 
 - 📫 Reach me at : **shikharreyya@gmail.com**
 
-- 🔗 My linkedIn profile : https://www.linkedin.com/in/shikhar-reyya
+- 🔗 My linkedIn profile : https://www.linkedin.com/in/shikharreyya
 
 - 👨‍💻 Website : [https://shikharreyya.is-a.dev/myportfolio](https://shikharreyya.is-a.dev/myportfolio)
 
