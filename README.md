@@ -1,5 +1,8 @@
 
-<img height="220px" align="left" src="https://drive.usercontent.google.com/download?id=1gW2yrZ0RDBzMl7GryLnxHmAK0jyUhm4h&authuser=0" alt="poseidon0070" />
+
+<img height="180px" aspect-ratio= "16/9" src="https://drive.google.com/uc?id=10ZU06rjhKAh47OwssxVq-5PZECRJ6zrs" alt="Your Image Description">
+
+
 <p>&nbsp</p>
 <h1 align="center">Hi 👋, I'm Shikhar Reyya</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
