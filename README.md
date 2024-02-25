@@ -5,7 +5,7 @@
 
 <p>&nbsp</p>
 <h1 align="center">Hi 👋, I'm Shikhar Reyya</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🏫 Currently a 3rd year CSE undergrad at IIIT, Naya Raipur
 
@@ -34,6 +34,8 @@
 <img align="left" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img align="left" alt='REST API' src='https://img.shields.io/badge/REST-100000?style=for-the-badge&logo=Resend&logoColor=F4ECEC&labelColor=544E56&color=544E56'/>
+<img align="left" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD">
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
