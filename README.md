@@ -7,13 +7,15 @@
 <h1 align="center">Hi 👋, I'm Shikhar Reyya</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🏫 Currently a 3rd year CSE undergrad at IIIT, Naya Raipur
+- <p>🏫 &nbsp Currently a 3rd year CSE undergrad at IIIT, Naya Raipur</p>
 
-- 📫 Reach me at : **shikharreyya@gmail.com**
+- <p>📫   &nbsp Reach me at : **shikharreyya@gmail.com**</p>
 
-- 🔗 My linkedIn profile : https://www.linkedin.com/in/shikharreyya
+- <p>🔗   &nbsp My linkedIn profile : https://www.linkedin.com/in/shikharreyya</p>
+  
+- </>  View my CP coding profiles : https://codolio.com/profile/yaD1AVpm
 
-- 👨‍💻 Website : [https://shikharreyya.is-a.dev/myportfolio](https://shikharreyya.is-a.dev/myportfolio)
+- <p>👨‍💻   &nbsp Portfolio : https://shikharreyya.is-a.dev/myportfolio</p>
 
 <p>&nbsp</p>
 <h3 align="center">My github stats:</h3>
@@ -53,8 +55,9 @@
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <p>&nbsp</p>
 <h3 align="center">My Articles:</h3>
-<p>Maximizing stock profit with cooldown : https://www.geeksforgeeks.org/maximizing-stock-profit-with-cooldown/</p>
-<p>Minimum cost conversion : https://www.geeksforgeeks.org/minimum-cost-to-convert-a-1-to-a-given-number/</p>
+<p>Maximizing stock profit with cooldown : https://www.geeksforgeeks.org/maximizing-stock-profit-with-cooldown</p>
+<p>Minimum cost conversion : https://www.geeksforgeeks.org/minimum-cost-to-convert-a-1-to-a-given-number</p>
+<p>Build your own custom AI assistant chatbot using MERN stack : https://create-ai-assistant-app.blogspot.com</p>
 
 <p>&nbsp</p>
 <h3>Connect with me:</h3>
